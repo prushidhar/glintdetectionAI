@@ -1,0 +1,2 @@
+"""GlintDetectorAI MVP package."""
+
